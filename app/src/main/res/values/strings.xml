@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Booking App - Anas Afzal (71396)</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_certification">Movie Certification</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="actors_lists">Actors Lists</string>
+    <string name="movie_running_time">Movie Running Time</string>
+    <string name="movie_seats">Movie Seats</string>
+    <string name="movie_seats_remaining">0</string>
+    <string name="select_seats_">0</string>
+    <string name="SelectedSeats">0</string>
+    <string name="soficon">soficon</string>
+    <string name="movie_starring">Actors</string>
+    <string name="minus_button">button Icon</string>
+    <string name="SelectedSIts">0</string>
+    <string name="chair">sofa</string>
+    <string name="seat_remaining">0</string>
+    <string name="plus_button">button icon</string>
+    <string name="RemainingSits">0</string>
+</resources>
