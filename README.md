@@ -1,7 +1,7 @@
-# MovieMobileCA
-
 <b>Student Name: Anas Afzal</b>
+
 <b>Student ID: 71396</b>
+
 <b>Student Email: 71396@student.dorset-college.ie</b>
 
 
